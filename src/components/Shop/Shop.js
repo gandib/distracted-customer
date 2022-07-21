@@ -49,7 +49,8 @@ const Shop = () => {
     const deleteBtn = (carts) => {
         const deletedItem = carts;
         let finalCart = [...cart];
-        finalCart.pop(deletedItem);
+        const indexOfDeletedItem = finalCart.indexOf(deletedItem);
+        finalCart.splice(indexOfDeletedItem, 1); //1 mean 1 item deleted only
         setCart(finalCart);
     }
 
