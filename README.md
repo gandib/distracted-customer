@@ -2,7 +2,9 @@
 
 # Live Server Link:
 [Open Live Server](https://distracted-customer.netlify.app/)\
-[Private Repo Link](https://github.com/facebook/create-react-app)
+
+# Private Repo Link:
+[Private Repo Link](https://github.com/Programming-Hero-Web-Course4/lucky-one-gandib)
 
 ## Available Scripts
 
