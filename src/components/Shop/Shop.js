@@ -35,9 +35,12 @@ const Shop = () => {
     }
 
     const chooseForMeHandle = (cart) => {
+        let randomItem;
         let myProducts = cart;
-        let randomItem = myProducts[Math.floor(Math.random() * myProducts.length)];
-        setRandomProduct(randomItem);
+        if (myProducts.length !== 0) {
+            randomItem = myProducts[Math.floor(Math.random() * myProducts.length)];
+            setRandomProduct(randomItem);
+        }
     }
 
     const resetHandle = () => {
