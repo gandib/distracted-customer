@@ -1,0 +1,56 @@
+[
+    {
+        "id": "62d64e6c21c2e18117b03f0c",
+        "price": "109000",
+        "img": "https://img.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_53876-138283.jpg?t=st=1658208478~exp=1658209078~hmac=a8bb9d7ff5b16e9d4f16c63fbf5bfccfcf78b62729d16acf2e8b951dad80f2d1&w=740",
+        "name": "Mac Pro 2"
+    },
+    {
+        "id": "62d64e6c24f19ddaa2400dfa",
+        "price": "95000",
+        "img": "https://img.freepik.com/free-psd/woman-working-her-laptop_53876-89560.jpg?t=st=1658187273~exp=1658187873~hmac=c6032ad0213006b05567a43196a1c046182d6caf4ce3b364520e06adb1e6aff5&w=740",
+        "name": "Dell Inspiron"
+    },
+    {
+        "id": "62d64e6c41d2457d387ee125",
+        "price": "85000",
+        "img": "https://img.freepik.com/premium-psd/laptop-screen-airport-lounge_53876-113637.jpg?w=740",
+        "name": "Lenovo IdeaPad"
+    },
+    {
+        "id": "62d64e6ca940c657494db2ad",
+        "price": "82000",
+        "img": "https://img.freepik.com/premium-psd/woman-using-laptop-mockup_53876-136114.jpg?w=740",
+        "name": "HP Pentium Silver"
+    },
+    {
+        "id": "62d64e6c8dde5b59bdaab7a2",
+        "price": "75000",
+        "img": "https://img.freepik.com/free-psd/woman-checking-her-phone_53876-89559.jpg?t=st=1658211558~exp=1658212158~hmac=0819f55cff68606f59ae858559f3fa5fdb5947437f982167652033eb19ccc9af&w=740",
+        "name": "Asus Vivobook"
+    },
+    {
+        "id": "62d64e6c270a600f77e3ebf9",
+        "price": "73000",
+        "img": "https://img.freepik.com/free-psd/laptop-mockup-design_47987-1814.jpg?t=st=1658211633~exp=1658212233~hmac=7138f6a0fc0ddc30d9ec0cbebbca18b78b356bb91ecb9240684aa9febc3a08d5&w=740",
+        "name": "Acer One"
+    },
+    {
+        "id": "62d64e6c9801df744eab08d2",
+        "price": "67000",
+        "img": "https://img.freepik.com/free-psd/full-screen-laptop-mockup-design_47987-1809.jpg?t=st=1658209012~exp=1658209612~hmac=fe186940879c1bcf0064eb6ddc3064f8fc87a3cf85eb6f4bf50159d3d0ded672&w=740",
+        "name": "MSI Modern"
+    },
+    {
+        "id": "62d64e6c37e3fc57fa3c3f57",
+        "price": "65000",
+        "img": "https://img.freepik.com/premium-psd/laptop-mockup-design-psd_47987-1819.jpg?w=740",
+        "name": "Walton Passion"
+    },
+    {
+        "id": "62d64e6c38c9f4a59bed9a40",
+        "price": "57000",
+        "img": "https://img.freepik.com/free-psd/laptop-mockup-design-psd_47987-1822.jpg?t=st=1658211684~exp=1658212284~hmac=6e61bad4778603ff01d37dee362fa4063072784e4a00d91651d4f2fb9b7c413a&w=740",
+        "name": "Realme Book"
+    }
+]

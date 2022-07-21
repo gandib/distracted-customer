@@ -1,0 +1,21 @@
+.cart-item {
+    display: flex;
+    align-items: center;
+    padding-right: 40px;
+
+}
+
+.cart-item img {
+    padding-right: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.cart-item-name {
+    padding-right: 10px;
+}
+
+.cart-delete-btn {
+    width: 20px;
+    height: 15;
+}
