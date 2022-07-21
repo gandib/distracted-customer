@@ -1,6 +1,6 @@
 # Distracted Customer
 
-[Open Live Server](https://distracted-customer.netlify.app/)
+[Open Live Server](https://distracted-customer.netlify.app/)\
 [Private Repo Link](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
