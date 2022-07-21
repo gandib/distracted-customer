@@ -1,7 +1,7 @@
 # Distracted Customer
 
 # Live Server Link:
-[Open Live Server](https://distracted-customer.netlify.app/)\
+[Open Live Server](https://distracted-customer.netlify.app/)
 
 # Private Repo Link:
 [Private Repo Link](https://github.com/Programming-Hero-Web-Course4/lucky-one-gandib)
