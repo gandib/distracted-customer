@@ -1,6 +1,6 @@
 # Distracted Customer
 
-# Live Server
+# Live Server Link:
 [Open Live Server](https://distracted-customer.netlify.app/)\
 [Private Repo Link](https://github.com/facebook/create-react-app)
 
